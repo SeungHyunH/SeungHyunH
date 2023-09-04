@@ -13,14 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    circle {
-      fill: gold;
-      stroke: maroon;
-      stroke-width: 2px;
-    }
-  </style>
-
-  <circle cx="5" cy="5" r="4" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="210" width="500">
+  <polygon points="200,10 250,190 160,210" style="fill:lime;stroke:purple;stroke-width:1" />
 </svg>

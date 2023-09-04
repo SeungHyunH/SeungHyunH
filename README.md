@@ -13,7 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<?xml version="1.0" encoding="UTF-8"?>
-<svg height="210" width="500">
-  <polygon points="200,10 250,190 160,210" style="fill:lime;stroke:purple;stroke-width:1" />
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+      </div>
+    </div>
+  </foreignObject>
 </svg>

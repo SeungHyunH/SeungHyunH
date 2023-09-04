@@ -18,14 +18,12 @@ Here are some ideas to get you started:
     viewBox="0 0 495 40"
     fill="none"
     xmlns="http://www.w3.org/2000/svg">
-
     <style>
         .header {
             font: 600 18px Sans-Serif;
             fill: #0366d6;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
         }
-
         @keyframes fadeInAnimation {
             from {
                 opacity: 0;
@@ -34,9 +32,7 @@ Here are some ideas to get you started:
                 opacity: 1;
             }
         }
-
     </style>
-
     <g transform="translate(0, 25)">
         <text class="header" data-testid="header">안녕?</text>
     </g>
